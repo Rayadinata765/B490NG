@@ -1,5 +1,5 @@
 # B490NG
-pkg update && apa upgrade -y
+pkg update && pkg upgrade -y
 # install dolo
 pkg install python
 pkg install git
